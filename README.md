@@ -10,6 +10,7 @@ Este repositório visa a resolução dos exercícios da disciplina para facilita
 * Display
 * Palíndromo
 * Paridade
+* RemovePalavra
 * Rotaciona
 * StringSplitSpace
 * Sudoku
