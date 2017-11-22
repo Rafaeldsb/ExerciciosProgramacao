@@ -10,4 +10,5 @@ Este repositório visa a resolução dos exercícios da disciplina para facilita
 * Palíndromo
 * Paridade
 * Rotaciona
+* StringSplitSpace
 * Sudoku
