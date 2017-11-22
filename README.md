@@ -6,6 +6,7 @@ Este repositório visa a resolução dos exercícios da disciplina para facilita
 ## [3º Bimestre](3Bimestre)
 
 * Agenda
+* ComparaString
 * Display
 * Palíndromo
 * Paridade
